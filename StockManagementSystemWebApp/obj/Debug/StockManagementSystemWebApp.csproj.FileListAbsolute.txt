@@ -1,0 +1,6 @@
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll.config
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.dll
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\bin\StockManagementSystemWebApp.pdb
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.csprojResolveAssemblyReference.cache
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.dll
+F:\BITM LECTURES\StockManagementSystemWebApp\StockManagementSystemWebApp\obj\Debug\StockManagementSystemWebApp.pdb
